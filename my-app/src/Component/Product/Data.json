@@ -1,37 +1,59 @@
 [
     {
-        "title": "Smartphones",
-        "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "price": 40
+        "title": "Roadstar",
+        "desc" : "Mens Pure Cotton T-Shirt",
+        "price": "Rs. 949", 
+        "discount": "Rs. 1899  (50% OFF)",
+        "image" : "https://i.ibb.co/drwFtfB/product-1.png"
     },
     {
-        "title": "Android",
-        "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "price": 90
+        "title": "French Connection",
+        "desc" : "Mens Pure Cotton T-Shirt",
+        "price": "Rs. 949", 
+        "discount": "Rs. 1899  (50% OFF)",
+        "image" : "https://i.ibb.co/drwFtfB/product-1.png"
     },
     {
-        "title": "Mac",
-        "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "price": 140
+        "title": "French Connection",
+        "desc" : "Mens Pure Cotton T-Shirt",
+        "price": "Rs. 949", 
+        "discount": "Rs. 1899  (50% OFF)",
+        "image" : "https://i.ibb.co/drwFtfB/product-1.png"
     },
     {
-        "title": "iPhone",
-        "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "price": 410
+        "title": "French Connection",
+        "desc" : "Mens Pure Cotton T-Shirt",
+        "price": "Rs. 949", 
+        "discount": "Rs. 1899  (50% OFF)",
+        "image" : "https://i.ibb.co/drwFtfB/product-1.png"
     },
      {
-        "title": "Smartphones",
-        "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "price": 80
+        "title": "French Connection",
+        "desc" : "Mens Pure Cotton T-Shirt",
+        "price": "Rs. 949", 
+        "discount": "Rs. 1899  (50% OFF)",
+        "image" : "https://i.ibb.co/drwFtfB/product-1.png"
     },
     {
-        "title": "Macbook",
-        "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "price": 50
+        "title": "French Connection",
+        "desc" : "Mens Pure Cotton T-Shirt",
+        "price": "Rs. 949", 
+        "discount": "Rs. 1899  (50% OFF)",
+        "image" : "https://i.ibb.co/drwFtfB/product-1.png"
     },
     {
-        "title": "Smartphones",
-        "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "price": 60
+        "title": "French Connection",
+        "desc" : "Mens Pure Cotton T-Shirt",
+        "price": "Rs. 949", 
+        "discount": "Rs. 1899  (50% OFF)",
+        "image" : "https://i.ibb.co/drwFtfB/product-1.png"
+    },
+    {
+        "title": "French Connection",
+        "desc" : "Mens Pure Cotton T-Shirt",
+        "price": "Rs. 949", 
+        "discount": "Rs. 1899  (50% OFF)",
+        "image" : "https://i.ibb.co/drwFtfB/product-1.png"
     }
+
 ]

@@ -1,7 +1,8 @@
+import { Container, Row } from "react-bootstrap";
+
 const About = (props) => {
-    return <div>
-      <p>About</p>
-    </div>;
-  };
-  
-  export default About;
+  return <Container><Row><h1>About us</h1></Row></Container>
+};
+
+export default About;
+

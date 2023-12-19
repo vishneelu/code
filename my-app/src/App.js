@@ -7,7 +7,8 @@ import Header from './Layout/HeaderPage';
 import Home from './Pages/Home';
 import About from './Pages/About';
 import Contact from './Pages/Contact';
-
+import List from './Component/Product/List'
+// import CardItem from './Component/Card/CardItem.jsx'
 
 function App() {
   return (
@@ -19,9 +20,12 @@ function App() {
       <Router>
         <Header />
         <Switch>
-            <Route exact path="/"><Home/></Route>
+            <Route exact path="/"><Home /></Route>
             <Route exact path="/about"><About/></Route>
             <Route exact path="/contact"><Contact/></Route>
+            <Route exact path="/list"><List/></Route>
+            {/* <Route exact path="/CardItem"><List/></Route> */}
+           
         </Switch>
       </Router>
     </div>
